@@ -1,4 +1,5 @@
-
+# Quick note on importing classes, to import a class you can do the following
+# 'from file_name import Class'
 class Resturant():
 	'''Simple resturant class'''
 	def __init__(self, resturant_name, cuisine_type):
@@ -32,7 +33,6 @@ class IceCreamStand(Resturant):
 
 
 class User():
-
 	def __init__(self,first_name,last_name):
 		self.first = first_name
 		self.last = last_name
