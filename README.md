@@ -2,6 +2,8 @@
 
 Might as well put it on github
 
+Python 3 (*Most* examples will work in Python 2.7)
+
 Topic Covered:
 
 	- Setting up Python
@@ -11,10 +13,10 @@ Topic Covered:
 	- Lists
 	- Dictionary
 	- If statements
-	- User Input 
+	- User Input
 	- Functions
-	- Importing 
-	- Classes 
+	- Importing
+	- Classes
 	- Inheritance
 
-### More to come 
+### More to come

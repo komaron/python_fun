@@ -1,0 +1,5 @@
+This is a text file
+
+Using this while learning python
+
+Pi = 3.14
