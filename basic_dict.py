@@ -1,6 +1,6 @@
-mellie = {
-	'first': 	'Melissa',
-	'last':   'Nickols',
+rick = {
+	'first': 	'Rick',
+	'last':   'Jones',
 	'city': 	'Philadelphia',
 	'state': 	'PA',
 	'age': '24'
@@ -19,7 +19,7 @@ jake = {
 	'state': 	'PA',
 	'age': 		'35'
 }
-people = [mellie, komaron,jake]
+people = [rick, komaron,jake]
 
 print('Printing everything I know about people.')
 for p in people:
